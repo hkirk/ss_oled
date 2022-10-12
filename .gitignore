@@ -1,0 +1,7 @@
+**/*.o
+**/*.a
+
+linux/multi
+linux/sample
+linux/speed
+
