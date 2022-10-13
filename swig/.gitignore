@@ -1,4 +1,5 @@
 *.o
 *.so
 *.cs
+!dotNetSample/Program.cs
 *.cxx
